@@ -1,0 +1,39 @@
+.sekcja1{
+    background-color: rgb(42, 109, 203);
+}
+
+.zdj{
+    height: 100%;
+    width: 100%;
+}
+
+.sekcje{
+    display: flex;
+}
+
+.div1{
+    width: 50%;
+}
+
+.div1-tekst{
+    width: 50%;
+    color: white;
+    padding: 70px;
+    font-size: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+.sekcja2{
+    background-color: white;
+    color: black;
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.divtekst2{
+    color: black;
+}
